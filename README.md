@@ -1,4 +1,3 @@
-```markdown
 # 🧩 cpp-snippets
 
 Kısa, tekrar kullanılabilir **C++ kod parçaları** 🚀  
