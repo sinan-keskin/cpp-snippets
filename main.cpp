@@ -1,2 +1,7 @@
 #include <iostream>
-int main(){std::cout<<"Hello from C++ ⚙️"<<std::endl;}
+#include <vector>
+int main(){
+    std::vector<int> v{1,2,3};
+    for(int x: v){ std::cout << "C++ ⚙️ " << x << std::endl; }
+    return 0;
+}
