@@ -3,8 +3,7 @@
 Reusable and concise **C++ code snippets** for everyday development 🚀  
 A collection of modern C++17-compatible examples, helpers, and micro–utilities.
 
-![C++17](https://img.shields.io/badge/C%2B%2B-17-blue?style=flat-square)  
-![CMake](https://img.shields.io/badge/build-CMake-orange?style=flat-square)
+![C++17](https://img.shields.io/badge/C%2B%2B-17-blue?style=flat-square)![CMake](https://img.shields.io/badge/build-CMake-orange?style=flat-square)
 
 ---
 
